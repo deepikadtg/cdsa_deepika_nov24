@@ -1,1 +1,1 @@
-This is a day1 notes
+This is a day1 notes for c programming
